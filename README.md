@@ -21,7 +21,7 @@ We can compare the performance of the 12 selected stocks in 2017 versus the perf
 
 ![2018](resources/All_Stocks_Analysis_2018_1.png)
 
-10 of the 12 stocks showed less returns in 2018 than 2017, including 4 stocks that were over 100 points lower in 2018 than 2017.  Only 2 stocks had better returns in 2018 than 2017, with stock "RUN" showing the highest increase in returns performance.
+10 of the 12 stocks showed lower returns in 2018 than 2017, including 4 stocks that were over 100 points lower in 2018 than 2017.  Only 2 stocks had better returns in 2018 than 2017, with stock "RUN" showing the highest increase in returns performance, year over year.
 ![Comparison](resources/All_Stocks_Analysis_2018_vs_2017_Comparison_1.png)
 
 While it is true that "RUN" had positive returns both years, the green shading does not show us anything about the amplitude of those returns.  Consider "ENPH," which is the only other stock to have positive returns in both years.  A $100 investment in "ENPH" on Jan. 1, 2017 would be worth $417.56 on Dec. 31, 2018; a $100 investment in "RUN" over the same time period would only be worth $194.15.  Even "SEDG," which shows negative returns in 2018, had a better 2-year outcome - $100 invested in "SEDG" over the same time period would be worth $262.41 
