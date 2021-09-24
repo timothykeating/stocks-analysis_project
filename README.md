@@ -8,4 +8,9 @@ This file was created during the week as I progressed through the lesson plan, a
 VBA_Challenge Macro-Enabled Excel workbook:
 This file was created as the submission for the Weekly Challenge activity and should be considered a completed document, ready for criticism and grading.
 
+### ANALYSIS
+#### Overview of Project
+#### Results
+#### Summary
+
 
